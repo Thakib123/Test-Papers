@@ -1,0 +1,18 @@
+Question: What is 2+2?
+Points: 5
+Difficulty: 1
+Answer Space: 2 lines
+Correct Answer: 4
+
+Question: Who is the current president of the United States?
+Points: 10
+Difficulty: 2
+Answer Space: 3 lines
+Correct Answer: Joe Biden
+
+Question: What is the capital of France?
+Points: 8
+Difficulty: 3
+Answer Space: 2 lines
+Correct Answer: Paris
+
