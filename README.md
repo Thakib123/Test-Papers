@@ -1,6 +1,6 @@
-# Test Papers Assignment (CIS 1068)
+# Test Papers Assignment 
 
-This Java project, developed for CIS 1068 Assignment 10, implements a class hierarchy to represent test papers used in a school setting. It includes a variety of question types, a test generator, and optional extra credit features for file output and a test bank. The project demonstrates object-oriented programming principles, such as inheritance, polymorphism, and encapsulation, to manage test questions and generate formatted test and answer key outputs.
+This Java project, implements a class hierarchy to represent test papers used in a school setting. It includes a variety of question types, a test generator, and optional extra credit features for file output and a test bank. The project demonstrates object-oriented programming principles, such as inheritance, polymorphism, and encapsulation, to manage test questions and generate formatted test and answer key outputs.
 
 ## Project Overview
 
